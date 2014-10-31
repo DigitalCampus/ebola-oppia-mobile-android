@@ -21,7 +21,7 @@ package org.digitalcampus.oppia.activity;
 import java.io.File;
 import java.util.ArrayList;
 
-import org.digitalcampus.mobile.learning.R;
+import org.digitalcampus.oppia.ebola.R;
 import org.digitalcampus.oppia.application.DatabaseManager;
 import org.digitalcampus.oppia.application.DbHelper;
 import org.digitalcampus.oppia.application.MobileLearning;

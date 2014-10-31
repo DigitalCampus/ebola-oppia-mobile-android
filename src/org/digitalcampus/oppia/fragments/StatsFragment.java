@@ -17,7 +17,7 @@
 
 package org.digitalcampus.oppia.fragments;
 
-import org.digitalcampus.mobile.learning.R;
+import org.digitalcampus.oppia.ebola.R;
 import org.digitalcampus.oppia.application.DatabaseManager;
 import org.digitalcampus.oppia.application.DbHelper;
 import org.digitalcampus.oppia.application.MobileLearning;

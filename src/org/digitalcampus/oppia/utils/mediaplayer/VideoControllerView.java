@@ -41,7 +41,7 @@ import java.lang.ref.WeakReference;
 import java.util.Formatter;
 import java.util.Locale;
 
-import org.digitalcampus.mobile.learning.R;
+import org.digitalcampus.oppia.ebola.R;
 
 
 /**

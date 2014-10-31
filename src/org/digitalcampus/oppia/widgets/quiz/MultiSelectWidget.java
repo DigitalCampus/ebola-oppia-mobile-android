@@ -22,7 +22,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Locale;
 
-import org.digitalcampus.mobile.learning.R;
+import org.digitalcampus.oppia.ebola.R;
 import org.digitalcampus.mobile.quiz.model.Response;
 
 import android.app.Activity;

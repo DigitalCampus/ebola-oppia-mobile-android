@@ -17,7 +17,7 @@
 
 package org.digitalcampus.oppia.fragments;
 
-import org.digitalcampus.mobile.learning.R;
+import org.digitalcampus.oppia.ebola.R;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;
